@@ -1,0 +1,24 @@
+## Build results
+bin/
+obj/
+*.dll
+*.pdb
+
+## User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Visual Studio cache/options
+.vs/
+*.code-workspace
+
+## NuGet
+packages/
+*.nupkg
+*.snupkg
+
+## OS files
+.DS_Store
+Thumbs.db
