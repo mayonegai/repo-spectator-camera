@@ -4,7 +4,7 @@ using System.Reflection;
 
 namespace SpectatorCamera
 {
-    [BepInPlugin("com.yourname.spectatorcamera", "Spectator Camera", "1.0.0")]
+    [BepInPlugin("com.mayonegai.spectatorcamera", "Spectator Camera", "1.0.0")]
     public class SpectatorCameraMod : BaseUnityPlugin
     {
         private bool spectatorActive = false;
